@@ -1,1 +1,3 @@
 # algorithmicTrading
+
+test commit doug
