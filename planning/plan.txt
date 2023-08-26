@@ -1,1 +1,14 @@
-add papers and descriptions to this folder for project ideas
+for this evening
+
+learn how quant connect works
+learn how to run quant connect from inside vs code
+how to get data from quant connect 
+how to run a back test 
+how to paper trade
+implement a simple algorithm that operates quant connect
+
+for next weekend
+
+skim papers and bring 3 that provide useful information
+review these papers and pick some to try to implement.
+learn more about trading in general 

@@ -1,3 +1,1 @@
-from test2 import testFunction#
-
-testFunction()
+print("insert money machine")
