@@ -1,5 +1,6 @@
 # algorithmicTrading
 
 test commit doug
-test commit tom 
+test commit tom b 
 test 2
+
