@@ -1,2 +1,3 @@
-print("Hello World")
+from test2 import testFunction#
 
+testFunction()
